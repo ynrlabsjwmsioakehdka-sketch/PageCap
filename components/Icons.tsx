@@ -1,0 +1,41 @@
+import {
+  Video,
+  Camera,
+  Settings,
+  X,
+  Pause,
+  Square,
+  Check,
+  Copy,
+  FolderOpen,
+  RotateCcw,
+  Mic,
+  MicOff,
+  Monitor,
+  Scissors,
+  Image as ImageIcon,
+  Film,
+  Clock,
+  Download
+} from 'lucide-react';
+
+export {
+  Video,
+  Camera,
+  Settings,
+  X,
+  Pause,
+  Square,
+  Check,
+  Copy,
+  FolderOpen,
+  RotateCcw,
+  Mic,
+  MicOff,
+  Monitor,
+  Scissors,
+  ImageIcon,
+  Film,
+  Clock,
+  Download
+};

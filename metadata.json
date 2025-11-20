@@ -1,0 +1,9 @@
+{
+  "name": "PageCap - Screen Recorder & Long Screenshot",
+  "description": "A high-fidelity prototype of the PageCap Chrome Extension, featuring unified UI for screen recording and scrolling screenshots.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ]
+}
